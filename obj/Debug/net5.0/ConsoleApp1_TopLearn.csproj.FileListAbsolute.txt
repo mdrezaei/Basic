@@ -3,7 +3,6 @@ G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\bin\Debug\net5.0\ConsoleApp1_TopLearn.runtimeconfig.json
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\bin\Debug\net5.0\ConsoleApp1_TopLearn.runtimeconfig.dev.json
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\bin\Debug\net5.0\ConsoleApp1_TopLearn.dll
-G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\bin\Debug\net5.0\ref\ConsoleApp1_TopLearn.dll
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\bin\Debug\net5.0\ConsoleApp1_TopLearn.pdb
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\ConsoleApp1_TopLearn.csproj.AssemblyReference.cache
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\ConsoleApp1_TopLearn.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,4 @@ G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\ref\ConsoleApp1_TopLearn.dll
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\ConsoleApp1_TopLearn.pdb
 G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\ConsoleApp1_TopLearn.genruntimeconfig.cache
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp1_TopLearn\obj\Debug\net5.0\refint\ConsoleApp1_TopLearn.dll

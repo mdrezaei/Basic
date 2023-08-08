@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "drBqSb6y7ITRj4RAMlkhgzxGFJf0fY1oWS8Zl8vXjAlg1tJ5cE/emVRM/n23mnMVa/LRMQh1W2o1aoLVcechGQ==",
+  "dgSpecHash": "naVjKN4bwgyAGkOaEsGtLUKhKj8vJzW6vp+C9AxaAZaNuFdAdLJ4cM+mJcF8zpJqFj/dr31xjhhsnz6B/99bZA==",
   "success": true,
   "projectFilePath": "G:\\soft were\\Microsoft Visual Studio\\project2019c#\\TopLearn\\ConsoleApp1_TopLearn\\ConsoleApp1_TopLearn.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\m_d_rezaei\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
